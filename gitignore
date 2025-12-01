@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# System / OS
+.DS_Store
+Thumbs.db
+
+# Outputs (si no quieres subirlos todos)
+output/
